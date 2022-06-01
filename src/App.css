@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  background-image: url(C:\Users\sat\Desktop\react\projet\public\fond-noir-texture-marbre-marbre-thailande-marbre-naturel-abstrait-noir-blanc-pour-design_1253-917.webp);
+}
+
+.form-label {
+  color:rgb(171, 162, 162);
+  font-size: large;
+    /* margin-right: 50%; */
+    font-family: revert;
+}
+.form-control {
+  width: 50% !important;
+margin-left: 25%;
+}
+.form-select {
+  width: 50% !important; 
+  margin-left: 25%;
+}
+
+.form-check{
+  color: rgb(171, 162, 162);
+  margin-left: 25% !important;
+  margin-top: 5%;
+}
+
+.bbb{
+  margin-left: 30% !important; 
+  font-size: large;
+    margin-top: 3%;
+    font-family: revert;
+
+}
+
